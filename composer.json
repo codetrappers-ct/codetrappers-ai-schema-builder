@@ -1,0 +1,14 @@
+{
+  "name": "coetrappers/coetrappers-ai-schema-builder",
+  "description": "Starter AI plugin for structured-data suggestions from post content.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Coetrappers\\\\CoetrappersAiSchemaBuilder\\\\": "includes/"
+    }
+  }
+}
