@@ -1,12 +1,12 @@
-# Coetrappers AI Schema Builder
+# Codetrappers AI Schema Builder
 
-`coetrappers-ai-schema-builder` is a ai-enabled wordpress plugin for the Coetrappers project set.
+`codetrappers-ai-schema-builder` is a ai-enabled wordpress plugin for the Codetrappers project set.
 Starter AI plugin for structured-data suggestions from post content.
 The codebase is scaffolded to be a clean starting point, not a complete production feature.
 
 ## Project Summary
 
-- Slug: `coetrappers-ai-schema-builder`
+- Slug: `codetrappers-ai-schema-builder`
 - Type: AI-enabled WordPress plugin
 - Focus: ai, schema, seo
 
@@ -32,8 +32,8 @@ The codebase is scaffolded to be a clean starting point, not a complete producti
 
 ## How To Extend It
 
-- Activate `coetrappers-ai-schema-builder` from the Plugins screen.
-- Use `coetrappers-ai-schema-builder.php` as the primary bootstrap file for extension work.
+- Activate `codetrappers-ai-schema-builder` from the Plugins screen.
+- Use `codetrappers-ai-schema-builder.php` as the primary bootstrap file for extension work.
 - Keep feature logic inside dedicated classes rather than expanding the root file.
 
 ## Development Notes
